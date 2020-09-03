@@ -1,13 +1,10 @@
 ### Hi there 👋
----
-
 
 I am Tianyi Zhang, an **incoming junior year** computer science student at **McMaster University**, Hamilton, Ontario, Canada. I am an active learner and experimental innovator. I am greatly passionate about innovation and technology with special interests in **backend software development** and **cloud computing**. I have attended hackathons held in different places around the world. It was an amazing journey with great pleasure and sense of accomplishments.
 
 
 I am seeking for <b>summer 2021 internship 2021</b> internship opportunities throughout US & Canada. Feel free to [email](mailto:tiaven1104@gmail.com) me or connect with me via [LinkedIn](https://www.linkedin.com/in/tywinzhang/)! 😄
 
----
 
 ### 🔭 Experience
 - ⚡ **IBM Canada**: Software Developer Internship - May 2019 ~ Aug 2020

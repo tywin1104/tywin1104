@@ -9,7 +9,7 @@ I am seeking for <b>summer 2021 internship 2021</b> internship opportunities thr
 ### 🔭 Experience
 - ⚡ **IBM Canada**: Software Developer Internship - May 2019 ~ Aug 2020
 - ⚡ **Royal Bank of Canada**: Full Stack Developer Internship - May2018 ~ Aug 2018
-- ⚡ **McMaster University Department of Computing and Software**: Teaching Assistance
+- ⚡ **McMaster University Department of Computing and Software**: Teaching Assistant
 
 ### 🌱 Skills & Technologies
 
